@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <p>Este es mi primer comentario de dos líneas.</p>
+        <span>Aprendiendo a documentar mi código con OpenBootcamp</span>
+        <h3>Mis tres videos favorítos de Youtube</h3>
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=MBU2IJ1Mnjw"> Legend of Zelda: Ocarina of Time Original Soundtrack Track 11: Epona's Song</a></li>
+            <li><a href="https://www.youtube.com/watch?v=VTsD2FjmLsw"> Mass Effect 2 OST - Suicide Mission</a></li>
+            <li><a href="https://www.youtube.com/watch?v=NBheICyfR7o">Undertale Toriel Theme</a></li>
+        </ul>
+    </body>
+</html>
